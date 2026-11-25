@@ -1,10 +1,1 @@
-# Title
-|-- index.html
-|-- style.css
-|-- app.js
-|-- worker.js
-|-- model.py
-|-- .nojekyll
-|-- README.md
-`-- data/
-`-- io-2023.xlsx
+과제물1: 산업연관표분석 웹앱
